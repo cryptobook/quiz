@@ -11,4 +11,4 @@ The quiz questions are randomized and run locally in any browser.
 [Algebraic Structures](https://cryptobook.github.io/cry-24-06.html)  
 [Public-Key Encryption and the RSA Cryptosystem](https://cryptobook.github.io/cry-24-07.html)  
 [Key Exchange, Signatures](https://cryptobook.github.io/cry-24-08.html)  
-[Elliptic  Curve Cryptography](https://cryptobook.github.io/cry-24-01.html)  
+[Elliptic  Curve Cryptography](https://cryptobook.github.io/cry-24-09.html)  
